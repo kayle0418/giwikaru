@@ -1,0 +1,6 @@
+# Host file to block certain websites according to my network needs
+# Homepage: https://github.com/kayle0418/giwikaru/
+# =========================================
+0.0.0.0 torrentgalaxy.to
+0.0.0.0 1337x.to
+0.0.0.0 thepirate-bay.org
